@@ -19,7 +19,7 @@ export function ProjectsSection() {
         "Persistent message storage",
       ],
       github: "https://github.com/Unmixeddiplomacy/Chat-App",
-      demo: "https://github.com/Unmixeddiplomacy/Chat-App",
+      demo: "https://chat-app1-dfsm.onrender.com",
     },
     {
       title: "MegaBlog",
