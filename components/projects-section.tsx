@@ -19,7 +19,7 @@ export function ProjectsSection() {
         "Persistent message storage",
       ],
       github: "https://github.com/Unmixeddiplomacy/Chat-App",
-      demo: "https://chatapp-demo.vercel.app",
+      demo: "https://github.com/Unmixeddiplomacy/Chat-App",
     },
     {
       title: "MegaBlog",
